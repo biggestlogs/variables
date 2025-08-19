@@ -1,10 +1,11 @@
-Name='Joseph'
-Age=14
-Favorite_food='pancakes'
-Dream_job='Mechanical Engineer'
-Hobby='gaming'
-print('Name:', Name)
-print('Age:', Age)
-print('Favorite food:', Favorite_food)
-print('hobby:', Hobby)
-print('Dream:', Dream_job)
+school_name = "Warren Central High School"
+math_grade = 90
+science_grade = 55
+english_grade = 95
+all_passing = False
+
+print('School:',school_name)
+print('math grade:',math_grade)
+print('science grade:',science_grade)
+print('english grade:',english_grade)
+print('all subjects passing:',all_passing)
